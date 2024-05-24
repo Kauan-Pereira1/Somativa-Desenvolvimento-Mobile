@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "8ac3",
+      "username": "Kauan",
+      "password": "1234"
+    },
+    {
+      "id": "3381",
+      "username": "Paulo Pereira",
+      "password": "paulo1234"
+    },
+    {
+      "id": "3c5f",
+      "username": "Silvia Pereira",
+      "password": "silvia1234"
+    },
+    {
+      "id": "caaf",
+      "username": "Andre",
+      "password": "dezao"
+    }
+  ]
+}
